@@ -1,0 +1,10 @@
+The vertices will be viewed in order: A C B E G F D
+
+Detailed trace: A-C, C-B, B-E, E-G, G-F, C-D
+A|
+B|C
+C|A
+D|C
+E|B
+F|G
+G|E

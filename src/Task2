@@ -1,0 +1,11 @@
+The vertices will be viewed in order: A C B D E G F
+
+Trace of breadth-first search to find all paths from A:
+edgeTo[]
+A|
+B|A
+C|A
+D|A
+E|B
+F|E
+G|B

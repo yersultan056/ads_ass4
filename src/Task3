@@ -1,0 +1,3 @@
+Results of an implementation is equal to 1 and 2 tasks
+Order of nodes visited (DFS): A C B E G F D
+Order of nodes visited (BFS): A C B D E G F
