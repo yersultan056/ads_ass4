@@ -1,3 +1,5 @@
+package t4;
+
 import java.util.*;
 
 public class Task4 {

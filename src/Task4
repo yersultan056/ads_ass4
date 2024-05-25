@@ -1,0 +1,10 @@
+Shortest distance from Edinburgh to Dundee: 150
+Path: Edinburgh -> Stirling -> Perth -> Dundee
+
+vis. vert|Glasgow    Stirling     Perth    Dundee
+Glasgow  |70            50          100    ∞
+Stirling |70            50          90     ∞
+Perth    |70            50          90     160
+Dundee   |70            50          90     150
+
+         |70            50          90     150
